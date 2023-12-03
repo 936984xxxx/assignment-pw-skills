@@ -1,0 +1,91 @@
+                                                                                     ASSIGNMENT 5 NOVEMBER 2023 
+
+SOLUTION 1: JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.
+
+
+SOLUTION 2:  The key differences  between javascript and HTML is that we use javascript to make pages more attractive for visitors, like in weather forecast websites or cryptocurrency update pages..
+HTML is mainly used to define a web page’s basic structure and layout.
+
+
+SOLUTION 3: The predefined data types provided by JavaScript language are known as primitive data types. Primitive data types are also known as in-built data types.
+1. Number: Number data type in javascript can be used to hold decimal values as well as values without decimals.
+<script>
+    let x = 250;
+    let y = 40.5;
+    console.log("Value of x=" + x);
+    console.log("Value of y=" + y);
+</script>
+
+
+2. String: The string data type in javascript represents a sequence of characters that are surrounded by single or double quotes.
+<script>
+    let str = 'Hello All';
+    let str1 = "Welcome to my new house";
+    console.log("Value of str=" + str);
+    console.log("Value of str1=" + str1);
+</script>
+
+
+
+3. Undefined: The meaning of undefined is ‘value is not assigned’.
+<script>
+    console.log("Value of x=" + x);
+</script>
+
+
+4. Boolean: The boolean data type can accept only two values i.e. true and false.
+<script>
+    console.log("value of bool=" + bool);
+</script>
+
+
+5. Null: This data type can hold only one possible value that is null.
+<script>
+    let x = null;
+    console.log("Value of x=" + x);
+</script>
+
+
+
+SOLUTION 4: The let keyword in Javascript was introduced in 2015 with ES6. Just like var in Javascript, let keyword is also used for variable declaration. But the only difference is the variable declared with the “let” keyword is block-scoped and local variable. A variable declared with let will be out of scope outside the block within which it has been declared.
+
+
+
+SOLUTION 5: JavaScript comments can be used to explain JavaScript code, and to make it more readable.JavaScript comments can also be used to prevent execution, when testing alternative code.
+
+
+
+SOLUTION 6: Variable names can have numbers, but not at the beginning of the name (first letter). Variable names cannot have spaces. Don't use any of JavaScript's reserved keywords such as ( const , for , if , function , etc.). Use meaningful names like userName or ShoppingList and avoid ambiguous names/abbreviations.
+Readability and Understandability: Clear and meaningful variable names make your code more readable and understandable. When someone, including yourself, reads the code later on, descriptive variable names make it easier to comprehend the purpose and intent of the variable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
